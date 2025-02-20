@@ -38,7 +38,7 @@ const Card = styled.div<{ rarity: string }>`
   box-shadow: rgba(0, 0, 0, 0.5) 0px 2px 8px 0px;
 
   q {
-    color: #767676;
+    color: #b3b3b3;
     font-size: small;
   }
 

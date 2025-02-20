@@ -8,7 +8,7 @@ const POKEMON = 'dragonite'
 const Wrapper = styled.div`
   width: 80vw;
   min-height: 100vh;
-  margin: auto auto;
+  margin: 0 auto;
   font-family: system-ui, sans-serif;
   background-color: #212121;
   box-shadow: rgb(0, 0, 0) 0px 2px 8px 0px;
@@ -17,7 +17,7 @@ const Wrapper = styled.div`
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  color: #aeaeae;
+  color: #d2d2d2;
   text-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
 `
 
